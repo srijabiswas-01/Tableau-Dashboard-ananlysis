@@ -23,7 +23,7 @@ These findings highlight potential workforce retention concerns and provide an a
 
 ### Dashboard Preview
 
-![Enterprise HR Analytics Dashboard](screenshots/HR_Executive_Dashboard.png)
+![Enterprise HR Analytics Dashboard](screenshots/HR Executive Dashboard.png)
 
 *Figure 1. Enterprise HR Analytics Dashboard presenting workforce KPIs, attrition patterns, compensation segmentation and employee experience analysis.*
 
