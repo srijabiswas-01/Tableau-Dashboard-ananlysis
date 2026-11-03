@@ -9,6 +9,18 @@
 
 ---
 
+## Dataset Source
+
+**Dataset:** IBM HR Analytics Employee Attrition & Performance
+
+**Source:** Kaggle
+
+**Records:** 1,470 Employees
+
+**Variables:** 35
+
+**Dataset Link:** [Download IBM HR Analytics Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
 ## 1. Executive Summary
 
 This project presents an interactive business intelligence dashboard developed using Tableau Public to evaluate employee attrition and workforce characteristics within the IBM HR Analytics dataset. The analysis examines workforce composition, departmental turnover patterns, employee tenure, compensation, overtime and job satisfaction.
